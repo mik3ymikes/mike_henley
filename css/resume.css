@@ -40,7 +40,7 @@ h2 {
 .list-social-icons a {
   color: #495057; }
   .list-social-icons a:hover {
-    color: #BD5D38; }
+    color: #38bdb6; }
   .list-social-icons a .fa-lg {
     font-size: 1.75rem; }
 
@@ -104,10 +104,10 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #BD5D38 !important; }
+  background-color: #38b9bd !important; }
 
 .text-primary {
-  color: #BD5D38 !important; }
+  color: #38bdbd !important; }
 
 a {
   color: #BD5D38; }
